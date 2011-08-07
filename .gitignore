@@ -1,0 +1,4 @@
+opensm.initd
+opensm.logrotate
+opensm.conf
+opensm-3.3.5.tar.gz
